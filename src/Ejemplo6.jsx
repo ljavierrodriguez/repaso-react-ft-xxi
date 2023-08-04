@@ -17,7 +17,7 @@ const Button = ({ onClick }) => {
 const Ejemplo6 = () => {
 
     const [nombres, setNombres] = useState([
-        "Hugo", "Paco", "Luis"
+        "Hugo", "Paco", "Luis", "Genesis", "Alexis", "Rick", "Juancarlos"
     ])
 
     const [search, setSearch] = useState("");
