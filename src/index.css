@@ -1,0 +1,7 @@
+:root {
+    --bs-danger: #457cc3;
+}
+
+.bg-danger {
+    background-color: var(--bs-danger) !important;
+}
