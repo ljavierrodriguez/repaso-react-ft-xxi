@@ -8,5 +8,6 @@ import Ejemplo1 from "./Ejemplo1";
 import Ejemplo2 from "./Ejemplo2";
 import Ejemplo3 from "./Ejemplo3";
 import Ejemplo5 from "./Ejemplo5";
+import Ejemplo6 from "./Ejemplo6";
 
-ReactDOM.createRoot(document.querySelector('#root')).render(<Ejemplo5 />)
+ReactDOM.createRoot(document.querySelector('#root')).render(<Ejemplo6 />)
